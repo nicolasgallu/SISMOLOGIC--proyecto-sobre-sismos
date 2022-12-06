@@ -64,9 +64,12 @@ distintos kpis y establecer parametros que fuesen de utilidad para el publico en
 > keyboard <br />
 > numpy <br />
 
-## CARGAS INCREMENTALES MEDIANTE AIRFLOX
+## CARGAS INCREMENTALES MEDIANTE AIRFLOW
 > en proceso....
 
-## PIPELINE
+## DICCIONARIO DE DATOS Y PIPELINE DEL PROYECTO
 
 ![Alt](imagenes/9.png)
+![Alt](imagenes/10.png)
+![Alt](imagenes/11.png)
+![Alt](imagenes/12.png)
