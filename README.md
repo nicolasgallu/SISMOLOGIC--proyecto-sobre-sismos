@@ -48,6 +48,8 @@ distintos kpis y establecer parametros que fuesen de utilidad para el publico en
 > PYTHON <br />
 > MYSQL <br />
 > POWER BI <br />
+> AIRFLOW <br />
+> POSTGRES  <br />
 
 ## LIBRERIAS IMPORTADAS
 > pandas <br />
