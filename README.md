@@ -73,3 +73,4 @@ distintos kpis y establecer parametros que fuesen de utilidad para el publico en
 ![Alt](imagenes/10.png)
 ![Alt](imagenes/11.png)
 ![Alt](imagenes/12.png)
+![Alt](imagenes/13.png)
