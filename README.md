@@ -30,6 +30,8 @@ distintos kpis y establecer parametros que fuesen de utilidad para el publico en
 
 > Transformacion de datos <br />
 
+> Creacion de sistema de alerta por mensaje de wpp para alertar a la comunidad <br />
+
 > Busqueda creativa de nuevos datos <br />
 
 > Resolucion de pensar en kpis partiendo de eventos fuera del ambito de negocios <br />
