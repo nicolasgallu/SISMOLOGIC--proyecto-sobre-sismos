@@ -69,4 +69,4 @@ distintos kpis y establecer parametros que fuesen de utilidad para el publico en
 
 ## PIPELINE
 
-![Alt](/Pipeline/Pipeline.png)
+![Alt](imagenes/9.png)
