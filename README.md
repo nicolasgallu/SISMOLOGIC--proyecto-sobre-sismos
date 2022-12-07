@@ -1,3 +1,7 @@
+![Alt](imagenes/sismologic.png)
+
+
+
 # Sismologic 
 
 # PROYECTO DE ESTUDIO EN EL TERRENO DE LA SISMOLOGIA
